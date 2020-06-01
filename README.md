@@ -5,7 +5,7 @@
 ###  使用
 ```
 import React from "react";
-import pressImg from "./index";
+import pressImg from "compressImage-ro";
 
 export default class Demo extends React.PureComponent {
   constructor(props) {
